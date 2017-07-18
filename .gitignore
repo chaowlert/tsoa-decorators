@@ -1,0 +1,25 @@
+# Coverage directory used by tools like istanbul
+/coverage
+
+# Dependency directory
+/node_modules
+/bower_components
+/typings
+
+#build
+/build/src
+/build/test
+/dist
+/docs
+
+#log
+*.log
+
+#mac
+.DS_Store
+
+
+#idea
+.idea
+/src/index.ts
+/src/models/index.ts

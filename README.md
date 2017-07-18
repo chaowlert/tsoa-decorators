@@ -1,5 +1,5 @@
 # tsoa-decorators
-Decorators for [Tsoa](https://github.com/lukeautry/tsoa)
+Helpers and decorators for [Tsoa](https://github.com/lukeautry/tsoa)
 
 ### Install
 

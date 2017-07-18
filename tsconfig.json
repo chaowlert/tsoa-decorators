@@ -19,7 +19,7 @@
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
     "noImplicitAny": true,
-    "noImplicitReturns": true,
+    "noImplicitReturns": false,
     "noImplicitThis": true,
     "noUnusedLocals": true,
     "noUnusedParameters": false,

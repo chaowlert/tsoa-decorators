@@ -1,7 +1,7 @@
 {
   "name": "tsoa-decorators",
-  "description": "Decorators for Tsoa",
-  "version": "0.1.0",
+  "description": "Helpers and decorators for Tsoa",
+  "version": "0.1.1",
   "author": "Chaowlert Chaisrichalermpol",
   "license": "MIT",
   "files": [
@@ -16,8 +16,8 @@
     "url": "git://github.com/chaowlert/tsoa-decorators.git"
   },
   "keywords": [
-    "pouchdb",
-    "repository"
+    "tsoa",
+    "decorators"
   ],
   "bugs": {
     "url": "https://github.com/chaowlert/tsoa-decorators/issues"
@@ -28,7 +28,9 @@
   "devDependencies": {
     "@types/chai": "^4.0.1",
     "@types/mocha": "^2.2.41",
+    "@types/node": "^8.0.14",
     "@types/sinon": "^2.3.2",
+    "@types/validator": "^6.2.1",
     "chai": "^4.1.0",
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.2",
@@ -48,5 +50,8 @@
     "tslint": "^5.5.0",
     "typescript": "^2.4.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "moment": "^2.18.1",
+    "validator": "^8.0.0"
+  }
 }
